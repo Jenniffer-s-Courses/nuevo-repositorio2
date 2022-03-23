@@ -12,4 +12,4 @@ Modificado desde github
 
 ##Esto es una nueva modificacion desde visual studio code
 
-## Estos cambios son Nuevos
+## Estos cambios son Nuevos desde el repositorio local
