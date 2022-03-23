@@ -1,4 +1,4 @@
-# Objetivos de la repositorio
+# Objetivos del repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
@@ -12,4 +12,4 @@ Modificado desde github
 
 ##Esto es una nueva modificacion desde visual studio code
 
-## Estos cambios son Nuevos
+## Estos cambios son Nuevos desde Github
