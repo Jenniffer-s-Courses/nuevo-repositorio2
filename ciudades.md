@@ -4,4 +4,4 @@
 2. Metrópolis
 3. Hell's Kitchen
 
-4. hecho desde la terminal de github
+4. pueblo paleta
